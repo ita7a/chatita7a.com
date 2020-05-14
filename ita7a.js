@@ -19,8 +19,7 @@ $("div#tlogins button.btn.btn-primary").click(function(){var b=setInterval(funct
 if(location.protocol!='https:') {location.protocol='https:';}
 if (getUrlParameter('enter') != null) {location.href='/';} 
 $('.break.light').css({"background-image":"url()"});
-$.getScript("");
-$(`<img style="height:50px;width: 97%;margin-right: 3px;background-color: #736D5D;" src="/sico/1587458569584.gif" border="5">`).insertBefore('div#d2bc');
+$(`<img style="height:50px;width: 97%;margin-right: 3px;background-color: #736D5D;" src="/sico/1585244292040.gif.gif" border="5">`).insertBefore('div#d2bc');
 
 $("#d0 .fa-gear").html('&nbsp;').css('width','36px');
 
